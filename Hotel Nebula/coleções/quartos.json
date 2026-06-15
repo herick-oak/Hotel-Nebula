@@ -1,0 +1,32 @@
+[
+  {
+    "_id": { "$oid": "69efa7e567bb7ff1239be601" },
+    "numero": 202,
+    "tipo": "Suíte Master",
+    "capacidade": 4,
+    "preco_diaria": { "$numberDecimal": "550.00" },
+    "status": "disponivel",
+    "comodidades": [
+      "vista para o mar",
+      "banheira",
+      "frigobar",
+      "wi-fi premium",
+      "ar-condicionado"
+    ],
+    "descricao": "Quarto espaçoso com varanda e hidromassagem."
+  },
+  {
+    "_id": { "$oid": "69efa7e567bb7ff1239be602" },
+    "numero": 101,
+    "tipo": "Standard",
+    "capacidade": 2,
+    "preco_diaria": { "$numberDecimal": "200.00" },
+    "status": "ocupado",
+    "comodidades": [
+      "wi-fi",
+      "ar-condicionado",
+      "tv"
+    ],
+    "descricao": "Quarto simples e confortável."
+  }
+]

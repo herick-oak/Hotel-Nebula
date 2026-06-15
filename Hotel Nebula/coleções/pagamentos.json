@@ -1,0 +1,10 @@
+[
+  {
+    "_id": { "$oid": "69efbb0867bb7ff1239be700" },
+    "hospedagem_id": { "$oid": "69efaa0867bb7ff1239be615" },
+    "valor": { "$numberDecimal": "2870.00" },
+    "forma_pagamento": "cartao_credito",
+    "status": "pago",
+    "data_pagamento": { "$date": "2026-05-15T10:00:00.000Z" }
+  }
+]
